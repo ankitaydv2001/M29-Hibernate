@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author LENOVO
+ *
+ */
+module Daytwo {
+	requires Dayone;
+}

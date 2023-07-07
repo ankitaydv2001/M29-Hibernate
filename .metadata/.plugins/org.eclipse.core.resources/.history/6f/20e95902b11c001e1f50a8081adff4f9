@@ -1,0 +1,5 @@
+package org.tnsif.singletableinheritance;
+
+public class Manager {
+
+}

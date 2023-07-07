@@ -1,0 +1,5 @@
+package dayone.dao;
+
+public class EmployeeDao {
+
+}

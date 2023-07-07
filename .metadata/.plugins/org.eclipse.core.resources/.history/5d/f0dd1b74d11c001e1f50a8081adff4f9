@@ -1,0 +1,5 @@
+package dayone.service;
+
+public class EmployeeService {
+
+}

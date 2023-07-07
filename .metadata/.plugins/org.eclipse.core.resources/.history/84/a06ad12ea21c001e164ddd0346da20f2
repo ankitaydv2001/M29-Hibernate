@@ -1,0 +1,12 @@
+package org.tnsif.dao;
+
+import com.cg.jpacrud.entities.Employee;
+public interface EmployeeDao {
+public abstract Employee getStudentById(int id);
+public abstract void addStudent(Employee employee);
+public abstract void removeStudent(Employee employee);
+public abstract void updateStudent(Employee employee);
+
+public abstract void commitTransaction();
+public abstract void beginTransaction();
+}

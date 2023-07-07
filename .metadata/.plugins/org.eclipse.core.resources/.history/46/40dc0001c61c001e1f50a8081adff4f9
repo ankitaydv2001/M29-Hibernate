@@ -1,0 +1,12 @@
+package org.tnsif.service;
+
+import org.tnsif.entities.Employee;
+
+public interface EmployeeService 
+{
+	public abstract void addStudent(Employee employee);
+	public abstract void updateStudent(Employee employee);
+	public abstract void removeStudent(Employee employee);
+	
+	public abstract Employee findStudentById(int id);
+}
